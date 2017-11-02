@@ -59,7 +59,7 @@ These were my settings in Cura when I sliced the tile sets which allow me to hav
 **Note:** You'll need to do these two things first so that these print sessions will work correctly in the printing instructions which follow!
 
 ### Autoleveling
-The G29 nine-point autoleveling room isn't compatible with the multi-job approach we're doing here. If you did fire off that command from OctoPrint's startup GCODE then the second sub-job would fail badly since there are already parts on the print bed. Fortunately, there's an easy way to toggle that off.
+The G29 nine-point autoleveling routine isn't compatible with the multi-job approach we're doing here. If you did fire off that command from OctoPrint's startup GCODE then the second sub-job would fail badly since there are already parts on the print bed. Fortunately, there's an easy way to toggle that off.
 
 Follow the instructions to install the [OctoPrint-plugin-toggle-autoleveling](https://github.com/OutsourcedGuru/OctoPrint-plugin-toggle-autolevel) plugin which I've written. Using those instructions, verify that it's working.
 
