@@ -157,3 +157,8 @@ If you find yourself in Cura trying to position twenty of these on the virtual p
 <tr><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td><td>25</td></tr></table>
 
 Cura has an annoying habit of dropping a new STL object into the center of the bed, disrupting all your hard work. So import them all, move them to outside of the print area and then position them as I've described.
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
